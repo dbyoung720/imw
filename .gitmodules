@@ -34,6 +34,9 @@
 [submodule "fribidi"]
 	path = fribidi
 	url = https://github.com/ImageMagick/fribidi.git
+[submodule "glib"]
+	path = glib
+	url = https://github.com/ImageMagick/glib.git
 [submodule "harfbuzz"]
 	path = harfbuzz
 	url = https://github.com/ImageMagick/harfbuzz.git
