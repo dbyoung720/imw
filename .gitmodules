@@ -1,0 +1,117 @@
+[submodule "aom"]
+	path = aom
+	url = https://github.com/ImageMagick/aom.git
+[submodule "brotli"]
+	path = brotli
+	url = https://github.com/ImageMagick/brotli.git
+[submodule "bzlib"]
+	path = bzlib
+	url = https://github.com/ImageMagick/bzlib.git
+[submodule "cairo"]
+	path = cairo
+	url = https://github.com/ImageMagick/cairo.git
+[submodule "contrib"]
+	path = contrib
+	url = https://github.com/ImageMagick/contrib.git
+[submodule "croco"]
+	path = croco
+	url = https://github.com/ImageMagick/croco.git
+[submodule "dcraw"]
+	path = dcraw
+	url = https://github.com/ImageMagick/dcraw.git
+[submodule "exr"]
+	path = exr
+	url = https://github.com/ImageMagick/exr.git
+[submodule "ffi"]
+	path = ffi
+	url = https://github.com/ImageMagick/ffi.git
+[submodule "flif"]
+	path = flif
+	url = https://github.com/ImageMagick/flif.git
+[submodule "freetype"]
+	path = freetype
+	url = https://github.com/ImageMagick/freetype.git
+[submodule "fribidi"]
+	path = fribidi
+	url = https://github.com/ImageMagick/fribidi.git
+[submodule "harfbuzz"]
+	path = harfbuzz
+	url = https://github.com/ImageMagick/harfbuzz.git
+[submodule "highway"]
+	path = highway
+	url = https://github.com/ImageMagick/highway.git
+[submodule "ImageMagick"]
+	path = ImageMagick
+	url = https://github.com/ImageMagick/ImageMagick.git
+[submodule "ImageMagick-windows"]
+	path = ImageMagick-windows
+	url = https://github.com/ImageMagick/ImageMagick-windows.git
+[submodule "jbig"]
+	path = jbig
+	url = https://github.com/ImageMagick/jbig.git
+[submodule "jp2"]
+	path = jp2
+	url = https://github.com/ImageMagick/jp2.git
+[submodule "jpeg-turbo"]
+	path = jpeg-turbo
+	url = https://github.com/ImageMagick/jpeg-turbo.git
+[submodule "jpeg-xl"]
+	path = jpeg-xl
+	url = https://github.com/ImageMagick/jpeg-xl.git
+[submodule "lcms"]
+	path = lcms
+	url = https://github.com/ImageMagick/lcms.git
+[submodule "libde265"]
+	path = libde265
+	url = https://github.com/ImageMagick/libde265.git
+[submodule "libheif"]
+	path = libheif
+	url = https://github.com/ImageMagick/libheif.git
+[submodule "liblzma"]
+	path = liblzma
+	url = https://github.com/ImageMagick/liblzma.git
+[submodule "libraw"]
+	path = libraw
+	url = https://github.com/ImageMagick/libraw.git
+[submodule "librsvg"]
+	path = librsvg
+	url = https://github.com/ImageMagick/librsvg.git
+[submodule "libxml"]
+	path = libxml
+	url = https://github.com/ImageMagick/libxml.git
+[submodule "libzip"]
+	path = libzip
+	url = https://github.com/ImageMagick/libzip.git
+[submodule "lqr"]
+	path = lqr
+	url = https://github.com/ImageMagick/lqr.git
+[submodule "openjpeg"]
+	path = openjpeg
+	url = https://github.com/ImageMagick/openjpeg.git
+[submodule "pango"]
+	path = pango
+	url = https://github.com/ImageMagick/pango.git
+[submodule "pixman"]
+	path = pixman
+	url = https://github.com/ImageMagick/pixman.git
+[submodule "png"]
+	path = png
+	url = https://github.com/ImageMagick/png.git
+[submodule "raqm"]
+	path = raqm
+	url = https://github.com/ImageMagick/raqm.git
+[submodule "tiff"]
+	path = tiff
+	url = https://github.com/ImageMagick/tiff.git
+[submodule "VisualMagick"]
+	path = VisualMagick
+	url = https://github.com/ImageMagick/VisualMagick.git
+[submodule "webp"]
+	path = webp
+	url = https://github.com/ImageMagick/webp.git
+[submodule "win2k"]
+	path = win2k
+	url = https://github.com/ImageMagick/win2k.git
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/ImageMagick/zlib.git
